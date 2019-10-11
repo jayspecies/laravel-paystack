@@ -1,6 +1,6 @@
 {
     "name": "unicodeveloper/laravel-paystack",
-    "description": "A Laravel 5 Package for Paystack",
+    "description": "A Laravel 6 Package for Paystack",
     "keywords": ["php","github", "laravel","Open Source","payments", "subscription", "paystack", "paystack.co","laravel 5"],
     "license": "MIT",
     "authors": [
@@ -15,8 +15,8 @@
    ],
    "minimum-stability": "stable",
    "require": {
-    "php": "^5.4.0|^7.0",
-    "illuminate/support": "5.*",
+    "php": "^5.4.0|^7.2",
+    "illuminate/support": "6.*",
     "guzzlehttp/guzzle": "5.*|6.*"
    },
    "require-dev": {
